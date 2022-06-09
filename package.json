@@ -1,0 +1,22 @@
+{
+  "name": "becode-dummy-package",
+  "version": "1.0.0",
+  "description": "a dummy package for learners as introduction to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basileLeroy/becode-dummy-package.git"
+  },
+  "keywords": [
+    "becode"
+  ],
+  "author": "basileLeroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basileLeroy/becode-dummy-package/issues"
+  },
+  "homepage": "https://github.com/basileLeroy/becode-dummy-package#readme"
+}
